@@ -1,2 +1,2 @@
-# GRID-CDD
+# GRID-CSS
 position with GRID CSS
